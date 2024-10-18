@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\bin\Debug\net8.0\TaskSpecialMethods.exe
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\bin\Debug\net8.0\TaskSpecialMethods.deps.json
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\bin\Debug\net8.0\TaskSpecialMethods.runtimeconfig.json
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\bin\Debug\net8.0\TaskSpecialMethods.dll
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\bin\Debug\net8.0\TaskSpecialMethods.pdb
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\obj\Debug\net8.0\TaskSpecialMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\obj\Debug\net8.0\TaskSpecialMethods.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\obj\Debug\net8.0\TaskSpecialMethods.AssemblyInfo.cs
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\obj\Debug\net8.0\TaskSpecialMethods.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\obj\Debug\net8.0\TaskSpecialMethods.dll
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\obj\Debug\net8.0\refint\TaskSpecialMethods.dll
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\obj\Debug\net8.0\TaskSpecialMethods.pdb
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\obj\Debug\net8.0\TaskSpecialMethods.genruntimeconfig.cache
+C:\Users\admin\source\repos\TaskSpecialMethods\TaskSpecialMethods\obj\Debug\net8.0\ref\TaskSpecialMethods.dll

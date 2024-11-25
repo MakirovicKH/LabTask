@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\bin\Debug\net8.0\ProniaDL.deps.json
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\bin\Debug\net8.0\ProniaDL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\bin\Debug\net8.0\ProniaDL.dll
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\bin\Debug\net8.0\ProniaDL.pdb
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\obj\Debug\net8.0\ProniaDL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\obj\Debug\net8.0\ProniaDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\obj\Debug\net8.0\ProniaDL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\obj\Debug\net8.0\ProniaDL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\obj\Debug\net8.0\ProniaDL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\obj\Debug\net8.0\ProniaDL.dll
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\obj\Debug\net8.0\refint\ProniaDL.dll
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\obj\Debug\net8.0\ProniaDL.pdb
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\obj\Debug\net8.0\ProniaDL.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\Pronia\ProniaDL\obj\Debug\net8.0\ref\ProniaDL.dll

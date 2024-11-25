@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pronia.MVC", "Pronia.MVC\Pronia.MVC.csproj", "{8BBFC83A-1403-49EF-934A-4094CF15CFC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProniaDL", "ProniaDL\ProniaDL.csproj", "{35F962AD-6A02-4286-8EB3-8CD27701CBFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BBFC83A-1403-49EF-934A-4094CF15CFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BBFC83A-1403-49EF-934A-4094CF15CFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BBFC83A-1403-49EF-934A-4094CF15CFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BBFC83A-1403-49EF-934A-4094CF15CFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F962AD-6A02-4286-8EB3-8CD27701CBFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F962AD-6A02-4286-8EB3-8CD27701CBFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F962AD-6A02-4286-8EB3-8CD27701CBFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F962AD-6A02-4286-8EB3-8CD27701CBFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A48C1CF-7B98-4C56-AC48-E158CF5DC044}
+	EndGlobalSection
+EndGlobal

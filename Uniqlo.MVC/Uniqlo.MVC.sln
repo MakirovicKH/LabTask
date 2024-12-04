@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniqlo.MVC", "Uniqlo.MVC\Uniqlo.MVC.csproj", "{466C924F-D2DE-4BDE-B69B-EC9AFD7A0145}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uniqlo.MVC", "Uniqlo.MVC\Uniqlo.MVC.csproj", "{466C924F-D2DE-4BDE-B69B-EC9AFD7A0145}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniqlo.DAL", "Uniqlo.DAL\Uniqlo.DAL.csproj", "{4888EAF3-FAF8-4394-87E7-5736C1C17AE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Uniqlo.DAL", "Uniqlo.DAL\Uniqlo.DAL.csproj", "{4888EAF3-FAF8-4394-87E7-5736C1C17AE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uniqlo.BL", "Uniqlo.BL\Uniqlo.BL.csproj", "{5ED7347B-2318-4F50-A058-7A0606522413}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4888EAF3-FAF8-4394-87E7-5736C1C17AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4888EAF3-FAF8-4394-87E7-5736C1C17AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4888EAF3-FAF8-4394-87E7-5736C1C17AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED7347B-2318-4F50-A058-7A0606522413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED7347B-2318-4F50-A058-7A0606522413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED7347B-2318-4F50-A058-7A0606522413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED7347B-2318-4F50-A058-7A0606522413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

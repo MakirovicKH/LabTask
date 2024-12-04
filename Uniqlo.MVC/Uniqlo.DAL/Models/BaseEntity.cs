@@ -10,8 +10,8 @@ namespace Uniqlo.DAL.Models
     {
         public int Id { get; set; } 
         public DateTime CreatedAt { get; set; }
-        public DateTime UptatedAt { get; set; }
-        public DateTime DeletedAt { get; set; }
+        public DateTime? UptatedAt { get; set; }
+        public DateTime? DeletedAt { get; set; }
 
     }
 }

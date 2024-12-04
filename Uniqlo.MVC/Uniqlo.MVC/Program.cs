@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using System.Net.NetworkInformation;
+using Uniqlo.BL.Services.Abstractions;
+using Uniqlo.BL.Services.Concretes;
 using Uniqlo.DAL.Contexts;
 using Uniqlo.MVC;
 
@@ -11,17 +13,31 @@ namespace Uniqlo.MVC
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
-            builder.Services.AddDbContext<UniqloDbContext>(option=>
-            option.UseSqlServer(builder.Configuration.GetConnectionString("MsSql")));
+
+            string? connectionStr = builder.Configuration.GetConnectionString("MsSql");
+
+
+            builder.Services.AddDbContext<UniqloDbContext>(option =>
+            {
+                option.UseSqlServer(connectionStr);
+            });
+
+            //BL A AIDDI ASAGI  scop hisse
+
+
+            builder.Services.AddScoped<ISliderItemService,SliderItemService>();
+            ////////////////
 
             var app = builder.Build();
 
             app.UseStaticFiles();
 
-            app.UseRouting();
 
-            app.UseAuthorization();
 
+            app.MapControllerRoute(
+            name: "areas",
+            pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}"
+          );
 
             app.MapControllerRoute(
                 name: "default",

@@ -41,7 +41,7 @@ namespace Uniqlo.DAL.Migrations
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("DeletedAt")
+                    b.Property<DateTime?>("DeletedAt")
                         .HasColumnType("datetime2");
 
                     b.Property<string>("Image")
@@ -52,7 +52,7 @@ namespace Uniqlo.DAL.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<DateTime>("UptatedAt")
+                    b.Property<DateTime?>("UptatedAt")
                         .HasColumnType("datetime2");
 
                     b.HasKey("Id");

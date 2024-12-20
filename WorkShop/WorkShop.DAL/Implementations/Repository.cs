@@ -46,6 +46,25 @@ namespace WorkShop.DAL.Implementations
                 await _context.SaveChangesAsync();
             }
         }
+
+        public async Task HardDeleteAsync(int id)
+        {
+            var entity =await GetByIdAsync(id);
+            if(entity != null)
+            {
+                _dbSet.Remove(entity);
+            }
+        }
+
+        public async Task SoftDeleteAsync(int id)
+        {
+            var entity = await GetByIdAsync(id);
+            if(entity != null)
+            {
+                _dbSet.Remove(entity);
+                await _context.SaveChangesAsync();
+            }
+        }
     }
 
 }

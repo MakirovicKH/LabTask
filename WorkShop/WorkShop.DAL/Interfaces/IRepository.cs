@@ -14,5 +14,7 @@ namespace WorkShop.DAL.Interfaces
         Task AddAsync(T entity);
         Task UpdateAsync(T entity);
         Task DeleteAsync(int id);
+        Task SoftDeleteAsync(int id);
+        Task HardDeleteAsync(int id);
     }
 }

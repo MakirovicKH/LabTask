@@ -1,0 +1,11 @@
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\bin\Debug\net8.0\WorkShopModel.deps.json
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\bin\Debug\net8.0\WorkShopModel.dll
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\bin\Debug\net8.0\WorkShopModel.pdb
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\obj\Debug\net8.0\WorkShopModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\obj\Debug\net8.0\WorkShopModel.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\obj\Debug\net8.0\WorkShopModel.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\obj\Debug\net8.0\WorkShopModel.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\obj\Debug\net8.0\WorkShopModel.dll
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\obj\Debug\net8.0\refint\WorkShopModel.dll
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\obj\Debug\net8.0\WorkShopModel.pdb
+C:\Users\II Novbe\source\repos\WorkShop\WorkShopModel\obj\Debug\net8.0\ref\WorkShopModel.dll
